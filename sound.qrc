@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sound"/>
+    <qresource prefix="/">
+        <file>sound/TankBomb.wav</file>
+        <file>sound/BulletRebound.wav</file>
+        <file>sound/TankFire.wav</file>
+    </qresource>
+</RCC>

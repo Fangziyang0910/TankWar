@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/bullet.png</file>
+        <file>pic/tank1.png</file>
+        <file>pic/tank2.png</file>
+        <file>pic/wall.png</file>
+        <file>pic/wall1.png</file>
+        <file>pic/wall2.png</file>
+        <file>pic/tankbackground.jpeg</file>
+        <file>pic/bigbullet.png</file>
+        <file>pic/smallbullet.png</file>
+        <file>pic/bombbullet.png</file>
+        <file>pic/Gartlin.png</file>
+        <file>pic/Tank1(1)(1).png</file>
+        <file>pic/Tank2(1)(1).png</file>
+    </qresource>
+</RCC>
